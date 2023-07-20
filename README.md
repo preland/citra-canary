@@ -1,3 +1,15 @@
+| Pull Request | Commit | Title | Author | Merged? |
+|----|----|----|----|----|
+| [6698](https://github.com/citra-emu/citra//pull/6698) | [`8012b28b9`](https://github.com/citra-emu/citra//pull/6698/files) | renderer_software: Multi-thread processing | [GPUCode](https://github.com/GPUCode/) | Yes |
+| [6707](https://github.com/citra-emu/citra//pull/6707) | [`4890d4833`](https://github.com/citra-emu/citra//pull/6707/files) | frontend: Fix clicking primary screen window touching screen. | [Steveice10](https://github.com/Steveice10/) | Yes |
+| [6710](https://github.com/citra-emu/citra//pull/6710) | [`8fa9c1500`](https://github.com/citra-emu/citra//pull/6710/files) | rasterizer_cache: Handle texture cubes with duplicate faces | [GPUCode](https://github.com/GPUCode/) | Yes |
+| [6711](https://github.com/citra-emu/citra//pull/6711) | [`9556e1790`](https://github.com/citra-emu/citra//pull/6711/files) | services/cfg: Clean up definitions and access flag handling. | [Steveice10](https://github.com/Steveice10/) | Yes |
+
+
+End of merge log. You can find the original README.md below the break.
+
+-----
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
